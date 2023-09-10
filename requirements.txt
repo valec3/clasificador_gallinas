@@ -1,6 +1,7 @@
+streamlit
 Pillow
 requests
 opencv-python
+opencv-python-headless
 numpy
 tensorflow
-streamlit
